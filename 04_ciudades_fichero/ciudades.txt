@@ -1,0 +1,6 @@
+Madrid|20.0
+Sevilla|30.0
+Madrid|20.0
+Sevilla|30.0
+Avila|15.0
+Valencia|25.0
